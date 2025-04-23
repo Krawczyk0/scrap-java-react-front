@@ -1,5 +1,5 @@
 import { useMutation } from "react-query"
-import axiosInstance from "./axiosinstance"
+import axiosInstance from "./axiosInstance"
 import { toaster } from "../components/ui/toaster";
 
 const useLogin=() => {
